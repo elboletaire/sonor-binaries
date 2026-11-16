@@ -5,8 +5,9 @@ Sonor is a music player for Subsonic and Navidrome servers for desktop and mobil
 ## LGPL source bundles
 
 Sonor's desktop builds (macOS, Linux, Windows) include libmpv, FFmpeg and other libraries
-licensed under the GNU Lesser General Public License. They are linked dynamically, and you may
-replace them with your own builds.
+licensed under the GNU Lesser General Public License. Sonor itself is not open source, but those
+libraries are separate files inside the installed app (dynamically linked): you may swap them for
+your own builds of the same libraries.
 
 Each release here carries, per desktop platform, a `sonor-libmpv-sources-<target>.tar` with the
 exact source code of those libraries, the patches applied, the build scripts and configuration,
