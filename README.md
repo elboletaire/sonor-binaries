@@ -1,6 +1,6 @@
-# Sonor binaries
+# Sonor
 
-Files published for Sonor, a music player for Subsonic and Navidrome servers.
+Sonor is a music player for Subsonic and Navidrome servers for desktop and mobile. It is not publicly available yet; this repository holds what is published for it: today, the LGPL source bundles of the libraries its desktop apps include.
 
 ## LGPL source bundles
 
